@@ -1,1 +1,33 @@
+# Task 1: Exploring Tenant Properties in Microsoft Entra ID
+
+## Objective
+
+Learn how to locate and understand tenant properties within Microsoft Entra ID.
+
+## Activities Performed
+
+* Logged into Microsoft Entra Admin Center
+* Located Tenant Properties
+* Reviewed Organization Name
+* Identified Tenant ID
+* Examined tenant configuration information
+
+## Key Concepts Learned
+
+### Tenant
+
+A Microsoft Entra ID tenant is a dedicated cloud-based identity environment that stores users, groups, applications, and security settings.
+
+### Tenant ID
+
+A globally unique identifier used to distinguish an organization's Entra ID environment.
+
+## Security Importance
+
+Understanding tenant properties helps administrators identify and manage the environment where authentication and access control policies are applied.
+
+## Results
+
+Successfully navigated and reviewed tenant properties while gaining familiarity with the Microsoft Entra ID administration interface.
+
 
